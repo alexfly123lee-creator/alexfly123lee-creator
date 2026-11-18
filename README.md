@@ -2,8 +2,6 @@
 
 研究兴趣：Harness（DSH）插件开发、Agent 安全。
 
-目前在做一个 DSH 插件市场，也在整理 Agent 安全方面的笔记。
-
 **项目**
 
 - [hades-trace-analyzer](https://github.com/alexfly123lee-creator/hades-trace-analyzer) — DSH 会话 trace 分析
